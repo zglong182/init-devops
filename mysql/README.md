@@ -2,7 +2,7 @@
 安装: 执行`mysql-install.sh`
 
 卸载: 执行`mysql-uninstall.sh`
-
+            
 默认安装在`installHome=/opt/devops/mysql`下,如需要其他目录,请修改`installHome`
 
 默认安装5.7的最高版本:5.7.33,如需其他版本请修改

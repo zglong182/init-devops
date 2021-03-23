@@ -1,4 +1,4 @@
-#!/bin/bash
+  #!/bin/bash
 
 # 默认安装目录
 installHome=/opt/devops
